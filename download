@@ -1,0 +1,11 @@
+/data/
+/results/
+/.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.accdb
+*.laccdb
+*.mdb
+*.ldb
+*.xlsx
+*.csv
